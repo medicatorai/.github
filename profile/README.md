@@ -1,6 +1,12 @@
 # Welcome to MedicatorAI 👋
 
-<img src="https://github.com/MedicatorAI/.github/blob/main/assets/header.jpeg?raw=true">
+<br/>
+
+<div style="width: 100%;">
+  <img src="https://github.com/MedicatorAI/.github/blob/main/assets/header.jpeg?raw=true" style="width: 100%;">
+</div>
+
+<br/>
 
 MedicatorAI is revolutionizing global healthcare accessibility. Our advanced application utilizes AI to seamlessly connect users with affordable medical professionals worldwide, simplifying the complexities of international healthcare seeking.
 
