@@ -3,7 +3,7 @@
 <br/>
 
 <div style="width: 100%;">
-  <img src="https://github.com/MedicatorAI/.github/blob/main/assets/header.jpeg?raw=true" style="width: 100%;">
+  <img src="https://github.com/MedicatorAI/.github/blob/main/assets/header.png?raw=true" style="width: 100%;">
 </div>
 
 <br/>
